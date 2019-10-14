@@ -1,2 +1,2 @@
 for i in range (10):
-    print("Hello Sameer\n")
+    print("Hello Sameerwa\n")
